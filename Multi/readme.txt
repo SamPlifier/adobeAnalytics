@@ -1,3 +1,5 @@
+https://samplifier.github.io/adobeAnalytics/Multi/
+
 Thanks for downloading this theme!
 
 Theme Name: Multi
