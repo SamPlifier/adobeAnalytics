@@ -1,7 +1,8 @@
 // dataLair = dataLayer #worstEasterEgg
-$(document).ready(function() {
+$(document).ready(function(){
   var pageName = $('.nav-tabs .active')[0].innerHTML;
-  var digitalData = {
+
+  window.digitalData = {
     page: {
       pageName: pageName,
       siteSection: "we only have 1"
